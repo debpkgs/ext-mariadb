@@ -13,11 +13,11 @@ Build-Depends: debhelper-compat (= 13)
 Package-List:
  ext-mariadb deb admin optional arch=all
 Checksums-Sha1:
- 4648e7e125c5d7718070afbc3b67126eb6efe1b5 928 ext-mariadb_1.0.0.orig.tar.xz
+ 430207c3cc0a7fb0793d764b66c2267d7d9987d3 932 ext-mariadb_1.0.0.orig.tar.xz
  1a6b7e2eaee84c93ff42aaa4790bfc7bc8066bb4 764 ext-mariadb_1.0.0-1.debian.tar.xz
 Checksums-Sha256:
- 2b18ab423ff5b31db8c363ced70a7c4d5e33cda02e7980f278a5350dbe261654 928 ext-mariadb_1.0.0.orig.tar.xz
+ ced8e2f4319e3d22b804ed2f6704c71383e31342870e83f90ff330faa88edff2 932 ext-mariadb_1.0.0.orig.tar.xz
  9b4253c3a308188cf04c0b76df4b3910cdb8043b8fe8b85de552ef843826203f 764 ext-mariadb_1.0.0-1.debian.tar.xz
 Files:
- 7c3df426318c067267e469afb4ecf18d 928 ext-mariadb_1.0.0.orig.tar.xz
+ 14ad0dd5b557694e9011e788ec7ddeb9 932 ext-mariadb_1.0.0.orig.tar.xz
  f80c339f28a83d105652af98cda6ddfb 764 ext-mariadb_1.0.0-1.debian.tar.xz
